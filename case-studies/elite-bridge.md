@@ -10,6 +10,19 @@
 | Focus | Scheduling, caregiver coordination, attendance, timesheets, and billing workflows |
 | Source code | Private |
 
+## Product showcase
+
+Selected mobile review-build screens using app-review/demo records. These captures show an earlier review build; layouts and features may differ from the current release. Displayed counts and rates are demo values, not business results.
+
+<p>
+  <img src="../assets/elite-bridge/01_employer_dashboard.png" alt="Elite Bridge employer dashboard with quick actions and demo counts" width="240" />
+  <img src="../assets/elite-bridge/02_shift_management.png" alt="Posted shifts with sample App Review Client records" width="240" />
+  <img src="../assets/elite-bridge/03_time_and_attendance.png" alt="Time and attendance with sample App Review Caregiver activity" width="240" />
+</p>
+
+**Dashboard · Shift management · Time and attendance**
+
+
 ## The problem
 
 Staffing a care visit involves more than assigning a name to a time slot. Managers need to see coverage gaps, communicate changes, review attendance, and carry approved hours into billing workflows. Caregivers need a clear view of their assignments and a practical way to record time and respond to changes.
