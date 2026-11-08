@@ -80,14 +80,12 @@ The repository includes automated scenarios for:
 - Attendance corrections, audit records, and stale-review rejection.
 - Notification outcomes without claiming handset delivery.
 
-These describe implemented test coverage, not a claim that every release or integration has passed an independent audit.
-
 ## Outcome and ongoing work
 
 Elite Bridge connects scheduling, attendance review, and office workflows across web and mobile interfaces. Its value can be demonstrated through complete user journeys, such as scheduling a visit, recording attendance, and reviewing a correction.
 
 Development is ongoing. Feature availability can differ between web deployments and installed mobile versions. The expanded team messaging workspace is separate work in progress and is not presented here as a released feature.
 
-This case study makes no unverified claims about time savings, user counts, or compliance certification. Project source code and operational records remain private.
+Project source code and operational records remain private.
 
 [Back to my profile](../README.md)
