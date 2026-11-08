@@ -2,7 +2,7 @@
 
 **Software developer & founder**
 
-I build web and mobile software inspired by real challenges in staffing, care coordination, and ecommerce.
+I'm an experienced software developer building websites, web and mobile applications, and business systems. I turn ideas and complex requirements into practical software across industries.
 
 ## Featured project: Elite Bridge
 
